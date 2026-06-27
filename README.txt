@@ -9,3 +9,4 @@ style the footer
 move buttons to footer section
 add blur effect to edge of images
 Fix the car lists page
+syle buttons
