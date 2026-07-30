@@ -14,3 +14,11 @@ added a curved edge to the images (blured edges dont work rn)
 
 To Do:
 style p tags(not sure what to style rn)
+
+
+
+
+
+use bootstrap to redesign this webage
+use fonts awesome for cute logos
+implement js
