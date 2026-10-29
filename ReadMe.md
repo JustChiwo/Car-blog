@@ -7,6 +7,7 @@
 - Utilisation of CRUD operations to handle the data
 - Admin access for myself to Create, Delete, Get, and Update the cars and info on the cars
 - A "My Personal" mods list will be an addition to the already existing description of the cars
+- A price breakdown will be included aswell
 - And this Project will be deployed
 
 ## Tech Stack
