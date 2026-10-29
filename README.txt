@@ -1,24 +1,14 @@
-Removed all previous Ai generated CSS foramting and added my own CSS elements
-added a navigation bar that functions and styled to my liking
-fixed the back and next buttons 
-added apropriet img's to each page
-images aligned to the right and resized to 55% width for better layout and visual appeal.
-added a font family to the body tags
-moved all headings to the center
-fixed footer and styled to match nav bar
-moved the buttons to the footer
-styled buttons
-fixed the car page and linked to apropriet pages
-added a curved edge to the images (blured edges dont work rn)
+# This is the beginning of version 2.0 of the car blog
 
+## What Changed
+- Initially, the 1st iteration of this project was made in HTML and very basic CSS, and over the course of this year we have leveled up in our tech stack, and now we use React for our front end 
 
-To Do:
-style p tags(not sure what to style rn)
+### Major additions
+- Utilisation of CRUD operations to handle the data
+- Admin access for myself to Create, Delete, Get, and Update the cars and info on the cars
+- A "My Personal" mods list will be an addition to the already existing description of the cars
+- And this Project will be deployed
 
-
-
-
-
-use bootstrap to redesign this webage
-use fonts awesome for cute logos
-implement js
+## Tech Stack
+- Supabase for the database
+- React & Tailwind CSS for the frontend
